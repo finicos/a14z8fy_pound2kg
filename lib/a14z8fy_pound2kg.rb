@@ -8,8 +8,4 @@ class P2k
  end
 end
 
-lb = P2k.new
-
-puts lb.toKg(ARGV[0].to_f)
-
 end
